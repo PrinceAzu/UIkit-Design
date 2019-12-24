@@ -1,0 +1,15 @@
+.sidebar {
+    position: fixed;
+}
+
+.custom_h100 {
+    height: 100vh;
+}
+
+.ch {
+    height: 140px;
+}
+
+.ch-2 {
+    height: 450px;
+}

@@ -1,0 +1,223 @@
+@import url("../CSS/space.css");
+@import url("../CSS/display.css");
+
+
+
+
+.btx {
+    border-radius: 5px;
+    background-color: red;
+    border: 0;
+    padding: 20px 30px 0 20px;
+}
+
+.custom_list {
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0!important;
+    background: transparent;
+}
+
+ul li {
+    color: white;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none!important;
+
+}
+
+.form-rounded {
+    border-radius: 2rem;
+    height: 44px;
+}
+
+.form-rounded-2 {
+    border-radius: 4.25rem!important;
+    width: 162%!important;
+}
+
+
+.form-control::placeholder {
+    font-size: 0.95rem;
+    color: #aaa;
+  }
+
+.undrline {
+    border-bottom: 1px gray!important;
+}
+
+  .btn-link {
+      color: #aaa!important;
+      background-color: #F8F9FA;
+  }
+
+
+  .dot-red {
+    font-size: xx-small;
+    color: red;
+    margin-right: -16px;
+    position: relative;
+    top: -17px;
+}
+
+  .fard {
+      color: #FFC107;
+  }
+
+
+  .vl {
+    border-left: 1px solid black;
+    height: 30px;
+  }
+
+  .cl {
+      color: #FFC107;
+  }
+
+  .form-control-underlined {
+      box-shadow: none!important;
+      border-bottom: 1px solid rgb(173, 173, 173);
+      border-radius: 0;
+      width: 162%!important;
+      /* background-color: transparent!important; */
+    
+  }
+
+  input:focus {
+      outline: 0;
+      box-shadow: none!important;
+      background: transparent!important;
+  }
+
+  .btx-2 {
+      color: #FFC107;
+      width: 150px;
+      border-radius: 2rem;
+      border-color: #FFC107;
+      background-color: transparent;
+  }
+
+.btx-3 {
+    line-height: 20px;
+    text-align: center;
+    box-shadow: 0 1px 3px 0px grey;
+    border-color: #FFC107;
+    border-radius: 2rem;
+    background-color: #FFC107;
+} 
+
+.vl-orange {
+    width: 20px;
+    height: 70px;
+    background-color: #FFC107;
+  }
+
+.vl-green {
+    width: 20px;
+    height: 70px;
+    background-color: rgb(65, 167, 107);
+  }
+
+.vl-blue {
+    width: 20px;
+    height: 70px;
+    background-color: rgb(0,  162, 255);
+  }
+
+  .btx-4 {
+     color: black;
+     background-color: #F8F9FA;
+     /* box-shadow: 0 1px 3px 0px grey; */
+  } 
+
+  .btx-5 {
+      color: #E9BC78;
+      border-color: #E9BC7B;
+      font-size: xx-small;
+      padding-left: 30px;
+      padding-right: 30px;
+      background-color: #FFEBCD;
+  }
+
+  .dot {
+      font-size: xx-small;
+      color: green;
+  }
+
+  
+  /* Part Two */
+
+  .btx-6 {
+    color: white;
+    font-size: 13px;
+    padding: 15px 35px;
+    border-radius: 2rem;
+    background-color: #FFC107;
+}
+
+.btx-6:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.card-img {
+    max-width: 17%!important;
+}
+
+/* Modal start */
+
+.btx-7 {
+    color: white;
+    font-size: 13px;
+    padding: 15px 100px;
+    border-radius: 5px;
+    background-color: #FFC107;
+}
+
+.btx-8 {
+    color: white;
+    font-size: 13px;
+    padding: 10px 20px;
+    border-radius: 2rem;
+    background-color: #FFC107;
+    box-shadow: 0 1px 3px 0px grey;
+}
+
+.btx-9 {
+    color: rgb(55, 224, 4);
+    font-size: 10px;
+    padding: 8px 10px;
+    border-radius: 5px;
+    background-color: rgb(192, 243, 196);
+}
+
+
+ .twik {
+     color: gray;
+     font-size: 12px;
+ }
+
+ .vl-2 {
+    border-left: 1px solid gray;
+    height: 406px;
+    margin-left: 5px;
+    margin-right: 3px;
+  }
+
+.h6-right {
+    font-size: 13px;
+}
+
+.p-right {
+    font-size: 14px;
+}
+
+.h6-color {
+    color: #FFC107;
+}
+
+.Gthrone {
+    font-size: 19px;
+}
